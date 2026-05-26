@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm UV 👋
 
-<!--
-**YUVRAJCHOPRA-UV/YUVRAJCHOPRA-UV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE-DS Student  
+🐍 Python Developer  
+🐧 Linux Enthusiast  
+🔐 Learning Cybersecurity & Ethical Hacking  
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- Git & GitHub
+- Linux
+- Basic DSA
+- Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Cybersecurity
+- Open Source
+- Advanced Python
+- AI/ML Basics
+
+## Goals for 2026
+- Build strong projects
+- Improve DSA
+- Contribute to Open Source
+- Create a professional developer portfolio
